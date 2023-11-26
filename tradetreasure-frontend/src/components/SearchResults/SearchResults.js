@@ -7,6 +7,7 @@ function SearchResults() {
   return (
     <div className="search-results">
       <h1>Search Results</h1>
+      <p>I will have to use material ui autocomplete combobox here - maybe for the product categories</p>
       <Product /> {/* Render the Product component */}
       {/* Add more product listings here */}
     </div>
