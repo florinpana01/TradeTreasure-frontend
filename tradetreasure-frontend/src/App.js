@@ -8,7 +8,7 @@ import SearchResults from './components/SearchResults/SearchResults';
 import Profile from './components/Profile/Profile';
 import SignIn from './components/SignIn/SignIn';
 import SignUp from './components/SignUp/SignUp';
-import firebase from './firebase';
+import firebase from './services/firebase';
 
 function App() {
   return (
